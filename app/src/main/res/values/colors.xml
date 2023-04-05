@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#07C2AA</color>
+    <color name="colorPrimaryDark">#004349</color>
+    <color name="colorAccent">#F9A825</color>
+    <color name="white">#FFFFFF</color>
+    <color name="image_view_status_download_color">#004349</color>
+    <color name="colorBackgroundClick">#168AD8</color>
+    <color name="colorBackgroundLoading">#B8791C</color>
+    <color name="colorBackgroundCompleted">#28A725</color>
+    <color name="purple_200">#331ABE</color>
+
+    <declare-styleable name="LoadingButton">
+        <attr name="clicked_btn" format="color" />
+        <attr name="loading_btn" format="color" />
+        <attr name="completed_btn" format="color" />
+        <attr name="text_color" format="color" />
+    </declare-styleable>
+
+</resources>
